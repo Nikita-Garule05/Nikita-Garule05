@@ -11,7 +11,7 @@ Python | Django | HTML | CSS | JavaScript | Bootstrap | React | Express | MongoD
 Advanced Django, REST API Integration, and Cloud Deployment  
 
 📫 **Reach Me At:**  
-- 📧 Email: yourname@example.com  
+- 📧 Email: garulenikita@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/nikita-garule-181101258)   
 
 ⭐ **Fun Fact:**  
